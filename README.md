@@ -22,35 +22,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Zoom](https://zoom.us/)**  
-  Industry-standard video conferencing platform with reliable meetings, webinars, AI Companion features, breakout rooms, recording, and broad device/app support.
-
-- **[Google Meet](https://meet.google.com/)**  
-  Browser-based video meetings tightly integrated with Google Workspace, Calendar, and Gmail — simple, no-download joining, and strong reliability for teams already in the Google ecosystem.
-
-- **[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/)**  
-  Full collaboration suite with video meetings, chat, file sharing, and deep Microsoft 365 integration — ideal for organizations already using Office and Azure.
-
-- **[Cisco Webex](https://www.webex.com/)**  
-  Enterprise-grade video conferencing with strong security, noise cancellation, compliance (FedRAMP, HIPAA), and hybrid meeting capabilities.
-
-- **[Whereby](https://whereby.com/)**  
-  Lightweight, no-download video meetings with permanent branded room URLs, easy guest joining, and focus on simplicity for small teams and embedded use cases.
-
-- **[Jitsi Meet](https://meet.jit.si/)**  
-  Free, open-source-powered public video conferencing service (hosted by 8x8) with no account required, strong privacy options, and easy self-hosting alternative available.
-
-- **[Around](https://www.around.co/)**  
-  Modern video meeting tool designed for focused, high-quality conversations with unique spatial and presence features for remote teams.
-
-- **[Livestorm](https://livestorm.co/)**  
-  Browser-based platform optimized for webinars, virtual events, and engaging online meetings with strong analytics and marketing features.
-
-- **[RingCentral Video](https://www.ringcentral.com/)**  
-  Enterprise video meetings integrated with RingCentral’s unified communications suite (voice, messaging, and contact center).
-
-- **[BlueJeans](https://www.bluejeans.com/)**  
-  Enterprise video conferencing solution (now part of Verizon) focused on reliable meetings, interoperability, and large-scale events.
+| Product | Description | Starting Paid Price | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Zoom](https://zoom.us/)** | Industry-standard video conferencing platform with HD video, AI Companion, screen sharing, chat, and breakout rooms. | **Pro:** $13.33/user/month (billed annually, $159.90/yr) or $15.99/user/month (monthly) | **Free Forever (Basic Plan):** Up to 100 participants, 40-minute limit on group meetings (3+ participants), unlimited 1:1 meetings, local recording only, 3 editable whiteboards. |
+| **[Google Meet](https://meet.google.com/)** | Browser-based video meetings integrated with Google Workspace, Calendar, and Gmail with no download required. | **Business Starter:** $6.00/user/month (billed annually) or $7.20/user/month (monthly) | **Free Forever (with Google Account):** Up to 100 participants, 60-minute limit on group meetings (3+ participants), 24-hour limit on 1:1 calls, 15 GB shared Google Drive storage. |
+| **[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/)** | Collaboration suite with video meetings, channel chat, file sharing, and Microsoft 365 ecosystem integration. | **Teams Essentials:** $4.00/user/month (annual commitment) or **M365 Business Basic:** $6.00/user/month | **Free Forever Plan:** Up to 100 participants, 60-minute limit on group meetings, 30-hour limit on 1:1 calls, 5 GB cloud storage per user, no cloud recording. |
+| **[Cisco Webex](https://www.webex.com/)** | Enterprise-grade video conferencing with AI noise removal, compliance (FedRAMP, HIPAA), and hybrid meeting tools. | **Webex Meet:** $14.50/license/month (billed annually) or $16.50/month (monthly) | **Free Forever Plan:** Up to 100 participants, 40-minute limit on group meetings, unlimited 1:1 meetings, 1 shared whiteboard, no cloud recording. |
+| **[Whereby](https://whereby.com/)** | Lightweight, browser-based video meetings with permanent custom room URLs and easy no-download guest access. | **Pro:** $10.99/month (or $8.99/month billed annually) | **Free Forever Plan:** Up to 4 participants, 30-minute limit per meeting, 1 custom room URL. |
+| **[Zoho Meeting](https://www.zoho.com/meeting/)** | Lightweight, secure video conferencing and webinar tool tightly integrated with the Zoho ecosystem. | **Standard Meeting:** $1.00/host/month (billed annually, $12/yr) or $1.25/host/month (monthly) | **Free Forever Plan:** Up to 100 participants, 60-minute limit per meeting, unlimited meetings, screen sharing, no cloud recording. |
+| **[GoTo Meeting](https://www.goto.com/meeting)** | Enterprise video conferencing solution with high-reliability audio/video, dial-in numbers, and administrative tools. | **Professional:** $12.00/organizer/month (billed annually) or $14.00/organizer/month (monthly) | **14-day Free Trial:** Full access for up to 150 participants, unlimited meeting duration, HD video, screen sharing, and cloud recording for 14 days (no credit card required; no permanent free tier). |
+| **[Livestorm](https://livestorm.co/)** | Browser-based platform built for webinars, live events, product demos, and engaging online meetings with analytics. | **Pro:** $1,200/year (billed annually, equivalent to $100/month) for 400 attendee credits/year | **Free Forever Plan:** 30 attendee credits/year, 20-minute limit per session, up to 10 events with 20 sessions per event. |
+| **[RingCentral Video (RingEX)](https://www.ringcentral.com/)** | Enterprise video conferencing integrated into RingCentral’s RingEX unified communications suite (voice, SMS, meetings). | **RingEX Core:** $20.00/user/month (billed annually) or $30.00/user/month (monthly) | **14-day Free Trial:** Full access for up to 100 participants per meeting, unlimited duration, team messaging, and business phone features for 14 days (no permanent free tier). |
+| **[Jitsi Meet (Hosted by 8x8 / JaaS)](https://meet.jit.si/)** | Hosted open-source video meetings with end-to-end encryption, no account required, and developer API options. | **JaaS Basic:** $99.00/month (for up to 300 Monthly Active Users); public web service at `meet.jit.si` is $0 | **Free Forever Plan:** Public service at `meet.jit.si` is 100% free with up to 100 participants and no hard duration limits; JaaS Dev tier gives 25 MAUs free forever. |
+| **[Around (by Miro Labs)](https://www.around.co/)** | Minimalist video conferencing with lightweight floating bubbles, spatial audio, and deep Miro whiteboard collaboration. | **Miro Starter:** $8.00/member/month (billed annually) or $10.00/member/month (monthly) | **Free Forever Plan:** Up to 50 participants, 45-minute limit on group meetings (unlimited 1:1 meetings), 3 editable Miro boards. |
+| **[BlueJeans by Verizon](https://www.bluejeans.com/)** | Enterprise video conferencing and event platform *(Service retired by Verizon)*. | **Discontinued** *(Formerly Standard plan started at $9.99/host/month billed annually)* | **Service Retired:** Free tier and free trials were discontinued on August 31, 2023, and platform officially shut down on March 29, 2024. |
 
 ## Open-Source GitHub Projects
 
